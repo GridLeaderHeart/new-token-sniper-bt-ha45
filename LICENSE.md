@@ -1,4 +1,4 @@
-# 
+# advanced MEV sniper bot tools is the best MEV sniper bot tools with trailing-stop and multi-chain-support. Safe, reliable, and optimized for MEV, sniper, and arbitrage strategies.
 
 
 
